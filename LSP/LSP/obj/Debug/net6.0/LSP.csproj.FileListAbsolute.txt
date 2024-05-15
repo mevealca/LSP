@@ -1,0 +1,11 @@
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\bin\Debug\net6.0\LSP.deps.json
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\bin\Debug\net6.0\LSP.dll
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\bin\Debug\net6.0\LSP.pdb
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\obj\Debug\net6.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\obj\Debug\net6.0\LSP.AssemblyInfoInputs.cache
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\obj\Debug\net6.0\LSP.AssemblyInfo.cs
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\obj\Debug\net6.0\LSP.csproj.CoreCompileInputs.cache
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\obj\Debug\net6.0\LSP.dll
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\obj\Debug\net6.0\refint\LSP.dll
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\obj\Debug\net6.0\LSP.pdb
+C:\Curso_C_intermedio\Source\violacionLSP\LSP\LSP\obj\Debug\net6.0\ref\LSP.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LspApp/1.0.0": {
+        "dependencies": {
+          "LSP": "1.0.0"
+        },
+        "runtime": {
+          "LspApp.dll": {}
+        }
+      },
+      "LSP/1.0.0": {
+        "runtime": {
+          "LSP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LspApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LSP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
